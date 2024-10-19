@@ -1,0 +1,9 @@
+C:\CPT\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\CPT\game\game\obj\Debug\game.Properties.Resources.resources
+C:\CPT\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\CPT\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\CPT\game\game\bin\Debug\game.exe.config
+C:\CPT\game\game\bin\Debug\game.exe
+C:\CPT\game\game\bin\Debug\game.pdb
+C:\CPT\game\game\obj\Debug\game.exe
+C:\CPT\game\game\obj\Debug\game.pdb
